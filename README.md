@@ -45,6 +45,7 @@ This setup ensures a scalable, secure, and performant static website hosting sol
 
 
 ## Project Structure
+```
 s3-static-website/
 |── backend
 │   ├── main.tf
@@ -65,7 +66,7 @@ s3-static-website/
 ├── backend.tf
 ├── provider.tf
 └── variables.tf
-
+```
 
 ## Configuration Files
 
